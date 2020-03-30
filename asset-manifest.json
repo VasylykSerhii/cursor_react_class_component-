@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cursor_react_class_component/static/css/main.d7d5ba96.chunk.css",
+    "main.js": "/cursor_react_class_component/static/js/main.8528cd43.chunk.js",
+    "main.js.map": "/cursor_react_class_component/static/js/main.8528cd43.chunk.js.map",
+    "runtime-main.js": "/cursor_react_class_component/static/js/runtime-main.fda40941.js",
+    "runtime-main.js.map": "/cursor_react_class_component/static/js/runtime-main.fda40941.js.map",
+    "static/js/2.88cc407b.chunk.js": "/cursor_react_class_component/static/js/2.88cc407b.chunk.js",
+    "static/js/2.88cc407b.chunk.js.map": "/cursor_react_class_component/static/js/2.88cc407b.chunk.js.map",
+    "index.html": "/cursor_react_class_component/index.html",
+    "precache-manifest.3ec00130e3875b25cb607b9b210c042d.js": "/cursor_react_class_component/precache-manifest.3ec00130e3875b25cb607b9b210c042d.js",
+    "service-worker.js": "/cursor_react_class_component/service-worker.js",
+    "static/css/main.d7d5ba96.chunk.css.map": "/cursor_react_class_component/static/css/main.d7d5ba96.chunk.css.map",
+    "static/js/2.88cc407b.chunk.js.LICENSE.txt": "/cursor_react_class_component/static/js/2.88cc407b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fda40941.js",
+    "static/js/2.88cc407b.chunk.js",
+    "static/css/main.d7d5ba96.chunk.css",
+    "static/js/main.8528cd43.chunk.js"
+  ]
+}
